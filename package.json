@@ -1,0 +1,5 @@
+"scripts": {
+  "start": "react-scripts start",
+  "test": "jest",
+  "build": "react-scripts build"
+}
